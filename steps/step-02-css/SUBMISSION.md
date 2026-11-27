@@ -4,8 +4,8 @@
 > Без отчёта шаг не принимается.
 
 - **Ссылка на Pages:** https://skr1n4.github.io/OMG-shhhhhhhot-bit/
-- **Ссылка на папку шага в репозитории:** https://github.com/skr1n4/OMG-shhhhhhhot-bit/tree/main/steps/step-01-html
-- **Автопроверка:** 13/13 (прогнал check.html, число честное)
+- **Ссылка на папку шага в репозитории:** https://github.com/skr1n4/OMG-shhhhhhhot-bit/tree/main/steps/step-02-css
+- **Автопроверка:** 10/10 (прогнал check.html, число честное)
 
 ## Что сделано
 - [ ] все пункты выполнены
